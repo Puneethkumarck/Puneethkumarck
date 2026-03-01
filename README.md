@@ -19,7 +19,7 @@
 I'm a **Senior Backend Engineer** with **14 years of experience** architecting and delivering mission-critical payment infrastructure across **banking, fintech, and retail**. My work spans crypto/fiat stablecoin payments, compliance engines, blockchain integrations, and cloud-native microservices.
 
 - 🏦 Currently building food-donation payment microservices with Adyen across European markets
-- 🔐 Previously built crypto & stablecoin B2B payment systems (Solana, Ethereum, XRP)
+- 🔐 Previously built crypto & stablecoin B2B payment systems
 - 🏗️ Chapter Lead delivering a greenfield bancassurance platform across multiple countries
 - 🔒 Built multi-channel auth handling billions of banking transactions
 - 🧠 Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, **event-driven systems**, and clean, testable code
@@ -67,7 +67,7 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Payments & Compliance
-![Blockchain](https://img.shields.io/badge/Blockchain-Solana%20%7C%20Ethereum%20%7C%20XRP-purple?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-Crypto%20Payments-purple?style=flat-square)
 ![Adyen](https://img.shields.io/badge/Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=white)
 ![Compliance](https://img.shields.io/badge/Compliance-Chainalysis%20%7C%20ComplyAdvantage%20%7C%20LSEG-blue?style=flat-square)
 
@@ -100,7 +100,7 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 ## 🔐 Specialisations
 
 **Payments**
-- Fiat & Crypto payment systems (Solana, Ethereum, Ripple/XRP)
+- Fiat & Crypto payment systems
 - Stablecoin infrastructure & B2B payment rails
 - Adyen integration for multi-country checkout & settlement
 - Integration with multiple banking partners across European payment rails
@@ -129,14 +129,13 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 ## 🔬 Featured Projects
 
 ### 🪙 [crypto-api](https://github.com/Puneethkumarck/crypto-api)
-> Solana blockchain interaction API — balance checks, SOL token transfers, and automated airdrop handling on insufficient funds.
+> Blockchain interaction API — balance checks, token transfers, and automated airdrop handling on insufficient funds.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
-- Seamless Solana blockchain integration via clean REST API
-- SOL token transfer with automatic airdrop fallback when balance is insufficient
+- Seamless blockchain integration via clean REST API
+- Token transfer with automatic airdrop fallback when balance is insufficient
 - Production-grade error handling and wallet balance queries
 
 ---
