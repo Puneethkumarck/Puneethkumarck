@@ -42,7 +42,10 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 
 ### Messaging & Databases
@@ -56,6 +59,7 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
@@ -64,9 +68,15 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 ![Embabel GOAP](https://img.shields.io/badge/Embabel-GOAP_Agents-blueviolet?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-Powered_Agents-orange?style=flat-square)
 
+### Security & Auth
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
 ### Payments & Compliance
 ![Blockchain](https://img.shields.io/badge/Blockchain-Crypto%20Payments-purple?style=flat-square)
 ![Adyen](https://img.shields.io/badge/Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![Outbox Pattern](https://img.shields.io/badge/Transactional_Outbox-blue?style=flat-square)
 ![Compliance](https://img.shields.io/badge/Compliance-Chainalysis%20%7C%20ComplyAdvantage%20%7C%20LSEG-blue?style=flat-square)
 
 ---
