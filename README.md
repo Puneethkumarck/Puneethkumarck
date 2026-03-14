@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Puneethkumar CK 👋</h1>
 
 <p align="center">
-  <b>Senior Backend Engineer · Fintech & Payments Specialist · 14 Years Experience</b><br/>
+  <b>Lead Backend Engineer · Fintech & Payments Specialist · 14 Years Experience</b><br/>
   <i>Building high-throughput, distributed payment systems at scale</i>
 </p>
 
@@ -16,10 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Backend Engineer** with **14 years of experience** architecting and delivering mission-critical payment infrastructure across **banking, fintech, and retail**. My work spans crypto/fiat stablecoin payments, compliance engines, blockchain integrations, and cloud-native microservices.
+I'm a **Lead Backend Engineer** with **14 years of experience** architecting and delivering mission-critical payment infrastructure across **banking, fintech, and retail**. My work spans crypto/fiat stablecoin payments, compliance engines, blockchain integrations, and cloud-native microservices.
 
-- 🏦 Currently building food-donation payment microservices with Adyen across European markets
-- 🔐 Previously built crypto & stablecoin B2B payment systems
+- 🪙 Currently building **stablecoin-powered cross-border B2B payment infrastructure** (USD→EUR corridors via Base/USDC)
+- 🤖 Building **AI-powered agents** for incident triage, transaction investigation, and PR review using Spring AI & GOAP
+- 🏦 Previously built food-donation payment microservices with Adyen across European markets
 - 🏗️ Chapter Lead delivering a greenfield bancassurance platform across multiple countries
 - 🔒 Built multi-channel auth handling billions of banking transactions
 - 🧠 Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, **event-driven systems**, and clean, testable code
@@ -45,26 +46,35 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 
 ### Messaging & Databases
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
 
 ### Observability & CI/CD
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### AI & Agents
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Embabel GOAP](https://img.shields.io/badge/Embabel-GOAP_Agents-blueviolet?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-Powered_Agents-orange?style=flat-square)
 
 ### Payments & Compliance
 ![Blockchain](https://img.shields.io/badge/Blockchain-Crypto%20Payments-purple?style=flat-square)
@@ -93,6 +103,7 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 - **Event Sourcing & Outbox Pattern** — reliable async event publishing across distributed services
 - **Saga & State Machine Workflows** — Temporal, Camunda for long-running business processes
 - **Microservices** — independently deployable, fault-tolerant, cloud-native services
+- **AI Agent Architecture** — GOAP-based agents with Spring AI for operational automation
 - **AWS Event-Driven Architecture** — ECS, SQS, SNS, Lambda, Nitro Enclaves
 
 ---
@@ -128,35 +139,49 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 
 ## 🔬 Featured Projects
 
-### 🪙 [crypto-api](https://github.com/Puneethkumarck/crypto-api)
-> Blockchain interaction API — balance checks, token transfers, and automated airdrop handling on insufficient funds.
+### 🌉 [stablebridge-platform](https://github.com/Puneethkumarck/stablebridge-platform)
+> Stablecoin-powered cross-border B2B payment platform — USD-to-EUR corridors via Base/USDC with merchant onboarding, KYB, FX, and on/off-ramp.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-- Seamless blockchain integration via clean REST API
-- Token transfer with automatic airdrop fallback when balance is insufficient
-- Production-grade error handling and wallet balance queries
+- End-to-end cross-border payment flow: fiat on-ramp → stablecoin transfer → fiat off-ramp
+- Merchant onboarding with KYB verification
+- FX rate management and multi-corridor support
+- Hexagonal architecture with domain-driven design
 
 ---
 
-### 📈 [trading-api](https://github.com/Puneethkumarck/trading-api)
-> Java-based cryptocurrency trading engine with order book management, limit order processing, and trade history tracking.
+### 🤖 [oncall-support-agent](https://github.com/Puneethkumarck/oncall-support-agent)
+> AI-powered GOAP agent for incident triage, root cause analysis, and guided remediation using Spring AI & Embabel.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-- Order book management with real-time bid/ask matching
-- Limit order processing engine with accurate trade execution
-- Full trade history tracking and reporting capabilities
+- Goal-Oriented Action Planning (GOAP) for autonomous incident investigation
+- Automated root cause analysis and remediation suggestions
+- Integrates LLM reasoning with structured operational workflows
+
+---
+
+### 🔍 [tx-investigation-agent](https://github.com/Puneethkumarck/tx-investigation-agent)
+> AI-powered transaction investigation agent for stablecoin cross-border payments — automated anomaly detection and compliance analysis.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+- AI-driven investigation of stablecoin payment transactions
+- Automated compliance checks and anomaly flagging
+- Built on Embabel GOAP framework for structured agent reasoning
 
 ---
 
 ### 🔔 [price-alert](https://github.com/Puneethkumarck/price-alert)
 > Real-time price alerting system for US equities — set threshold alerts (e.g. "Notify me when AAPL > $150") and receive persisted notifications when live market ticks cross your targets.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -168,9 +193,21 @@ I'm a **Senior Backend Engineer** with **14 years of experience** architecting a
 
 ---
 
+### 📈 [trading-api](https://github.com/Puneethkumarck/trading-api)
+> Java-based cryptocurrency trading engine with order book management, limit order processing, and trade history tracking.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+- Order book management with real-time bid/ask matching
+- Limit order processing engine with accurate trade execution
+- Hexagonal architecture with clean separation of concerns
+
+---
+
 ## 📬 Let's Connect
 
-I'm always open to discussing **distributed systems**, **payment architecture**, **DDD**, or **engineering leadership**.
+I'm always open to discussing **distributed systems**, **payment architecture**, **AI-powered agents**, **DDD**, or **engineering leadership**.
 
 <p align="center">
   <a href="https://linkedin.com/in/puneethkumarck">
