@@ -20,7 +20,8 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 
 - 🪙 Currently building **stablecoin-powered cross-border B2B payment infrastructure** (USD→EUR corridors via Base/USDC)
 - 🤖 Building **AI-powered agents** for incident triage, transaction investigation, and PR review using Spring AI & GOAP
-- 🏦 Previously built food-donation platform with Adyen across European markets
+- 🔐 Previously built fiat/crypto approval workflows, transaction reporting and search capabilities for a leading stablecoin fintech
+- 🏦 Previously built food-donation platform across European markets
 - 🏗️ Chapter Lead delivering a greenfield bancassurance platform across multiple countries
 - 🔒 Built multi-channel auth handling billions of banking transactions
 - 🧠 Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, **event-driven systems**, and clean, testable code
@@ -70,19 +71,6 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 
 ---
 
-## 💼 Experience Timeline
-
-```
-2025 – Present  │  Lead Backend Engineer        │  Fintech / Food Tech     │  Paris, France
-2022 – 2025     │  Senior Software Engineer     │  Crypto / B2B Payments   │  Paris, France
-2018 – 2022     │  Chapter Lead / Sr Engineer   │  Banking / Insurance     │  Paris, France
-2017 – 2018     │  Senior Backend Dev / DevOps  │  Retail / E-commerce     │  Bengaluru, India
-2015 – 2017     │  Senior Backend Engineer      │  Banking                 │  Seattle, USA
-2011 – 2013     │  System Engineer              │  Banking                 │  Chennai, India
-```
-
----
-
 ## 🏗️ Architecture Expertise
 
 - **Domain-Driven Design (DDD)** — bounded contexts, aggregates, domain events
@@ -92,22 +80,6 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 - **Microservices** — independently deployable, fault-tolerant, cloud-native services
 - **AI Agent Architecture** — GOAP-based agents with Spring AI for operational automation
 - **AWS Event-Driven Architecture** — ECS, SQS, SNS, Lambda, Nitro Enclaves
-
----
-
-## 🔐 Specialisations
-
-**Payments**
-- Fiat & Crypto payment systems
-- Stablecoin infrastructure & B2B payment rails
-- Adyen integration for multi-country checkout & settlement
-- Integration with multiple banking partners across European payment rails
-
-**Security & Compliance**
-- PKI, ECDSA, EdDSA, SHA-3, HMAC cryptography
-- Multi-channel authentication (OAuth2, OTP, U2F, JWE/JWT)
-- Compliance engines: Chainalysis, ComplyAdvantage, LSEG World-Check
-- AWS Nitro Enclaves for secure computation
 
 ---
 
