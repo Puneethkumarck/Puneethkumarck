@@ -20,23 +20,10 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 
 - 🪙 Currently building **stablecoin-powered cross-border B2B payment infrastructure** (USD→EUR corridors via Base/USDC)
 - 🤖 Building **AI-powered agents** for incident triage, transaction investigation, and PR review using Spring AI & GOAP
-- 🏦 Previously built food-donation payment microservices with Adyen across European markets
+- 🏦 Previously built food-donation platform with Adyen across European markets
 - 🏗️ Chapter Lead delivering a greenfield bancassurance platform across multiple countries
 - 🔒 Built multi-channel auth handling billions of banking transactions
 - 🧠 Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, **event-driven systems**, and clean, testable code
-
----
-
-## 🚀 Key Achievements
-
-| Achievement | Impact |
-|---|---|
-| 🏗️ **Multi-country, multi-product bancassurance platform** | Delivered greenfield platform end-to-end in 10 months as Chapter Lead |
-| 🟢 **99.99% system uptime** | Resilient microservice architecture on AWS |
-| ✅ **99% compliance accuracy** improvement | Custom Compliance Decision Engine (Chainalysis, ComplyAdvantage, LSEG) |
-| ⚡ **80% reduction in approval delays** | 4-Eyes Approval Engine with Camunda for fiat & crypto transactions |
-| 🚀 **200% increase in deployment frequency** | GitHub Actions CI/CD; 75% fewer deployment failures |
-| 🔍 **60% MTTR reduction** | Advanced observability with Prometheus, Grafana, Incident.io |
 
 ---
 
