@@ -123,6 +123,22 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 
 ---
 
+### 🔗 [stablebridge-indexer](https://github.com/Puneethkumarck/stablebridge-indexer)
+> Multichain blockchain transaction indexer for stablecoin wallet infrastructure — detects deposits across Ethereum, Base, Solana, and Bitcoin chains in real time.
+
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+- Redis Bloom filter for sub-millisecond wallet address matching (99.9%+ non-match elimination)
+- Three worker types per chain: regular (chain tip), catch-up (backfill), rescan (failed blocks with exponential backoff)
+- At-least-once delivery via Kafka with Resilience4j circuit breakers for RPC resilience
+- Hexagonal architecture with ArchUnit enforcement
+
+---
+
 ### 🤖 [oncall-support-agent](https://github.com/Puneethkumarck/oncall-support-agent)
 > AI-powered GOAP agent for incident triage, root cause analysis, and guided remediation using Spring AI & Embabel.
 
