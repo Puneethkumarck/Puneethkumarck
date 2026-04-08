@@ -144,6 +144,22 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 
 ---
 
+### 🔄 [stablebridge-tx-recovery](https://github.com/Puneethkumarck/stablebridge-tx-recovery)
+> Enterprise-grade microservice for stablecoin transaction recovery across EVM and Solana chains — detects stuck/failed on-chain transactions and orchestrates automated recovery with configurable escalation and human-approval workflows.
+
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- Automated detection and recovery of stuck/failed stablecoin transactions across EVM and Solana
+- Configurable escalation policies with gas management and retry strategies
+- Human-approval workflows for high-value or ambiguous recovery actions
+- Hexagonal architecture with domain-driven design
+
+---
+
 ### 🤖 [oncall-support-agent](https://github.com/Puneethkumarck/oncall-support-agent)
 > AI-powered GOAP agent for incident triage, root cause analysis, and guided remediation using Spring AI & Embabel.
 
