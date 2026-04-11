@@ -160,6 +160,23 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 
 ---
 
+### 🔺 [prism](https://github.com/Puneethkumarck/prism)
+> High-performance real-time Solana transaction indexer — streams the mainnet firehose via Yellowstone gRPC or WebSocket `blockSubscribe` and persists it to PostgreSQL. **No Spring Boot. No JPA.**
+
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Helidon](https://img.shields.io/badge/Helidon_4_SE-00569C?style=flat-square&logo=oracle&logoColor=white)
+![Virtual Threads](https://img.shields.io/badge/Virtual_Threads-Project_Loom-7B1FA2?style=flat-square&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+
+- Java 25 Virtual Threads on Helidon 4 SE — sub-100ms startup, <50 MB resident footprint
+- PostgreSQL `COPY FROM STDIN` + staging merge for **5–10× faster** writes vs `INSERT VALUES`
+- Dual-trigger batching (200 tx / 100ms) with unbounded lock-free `LinkedTransferQueue` for backpressure
+- Hexagonal architecture, zero reflection, zero Spring — tight hot path from socket to row
+
+---
+
 ### 🤖 [oncall-support-agent](https://github.com/Puneethkumarck/oncall-support-agent)
 > AI-powered GOAP agent for incident triage, root cause analysis, and guided remediation using Spring AI & Embabel.
 
