@@ -73,12 +73,21 @@ I'm a **Lead Backend Engineer** with **14 years of experience** architecting and
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+### Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![USDC](https://img.shields.io/badge/USDC-2775CA?style=flat-square&logo=circle&logoColor=white)
+![Yellowstone gRPC](https://img.shields.io/badge/Yellowstone_gRPC-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Chainalysis](https://img.shields.io/badge/Chainalysis-FF5733?style=flat-square)
+
 ### Payments & Compliance
-![Blockchain](https://img.shields.io/badge/Blockchain-Crypto%20Payments-purple?style=flat-square)
 ![Adyen](https://img.shields.io/badge/Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
 ![Outbox Pattern](https://img.shields.io/badge/Transactional_Outbox-blue?style=flat-square)
-![Compliance](https://img.shields.io/badge/Compliance-Chainalysis%20%7C%20ComplyAdvantage%20%7C%20LSEG-blue?style=flat-square)
+![Compliance](https://img.shields.io/badge/Compliance-ComplyAdvantage%20%7C%20LSEG-blue?style=flat-square)
 
 ---
 
