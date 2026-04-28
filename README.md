@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Puneethkumar CK 👋</h1>
 
 <p align="center">
-  <b>Lead Backend Engineer · Fintech & Payments Specialist · 14 Years Experience</b><br/>
+  <b>Lead Backend Engineer · Fintech & Payments Specialist</b><br/>
   <i>Building high-throughput, distributed payment systems at scale</i>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Lead Backend Engineer** with **14 years of experience** architecting and delivering mission-critical payment infrastructure across **banking, fintech, and retail**. My work spans crypto/fiat stablecoin payments, compliance engines, blockchain integrations, and cloud-native microservices.
+I'm a **Lead Backend Engineer** architecting and delivering mission-critical payment infrastructure across **banking, fintech, and retail**. My work spans crypto/fiat stablecoin payments, compliance engines, blockchain integrations, and cloud-native microservices.
 
 - 🪙 Currently building **stablecoin-powered cross-border B2B payment infrastructure** (USD→EUR corridors via Base/USDC)
 - 🤖 Building **AI-powered agents** for incident triage, transaction investigation, and PR review using Spring AI & GOAP
