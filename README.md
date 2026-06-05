@@ -19,6 +19,7 @@
 I'm a **Lead Backend Engineer** architecting and delivering mission-critical payment infrastructure across **banking, fintech, and retail**. My work spans crypto/fiat stablecoin payments, compliance engines, blockchain integrations, and cloud-native microservices.
 
 - 🪙 Currently building **stablecoin-powered cross-border B2B payment infrastructure** (USD→EUR corridors via Base/USDC)
+- 💸 Building **ArcPay** — open-source payment protocol on Circle's Arc L1, giving AI agents autonomous but policy-controlled access to USDC
 - 🤖 Building **AI-powered agents** for incident triage, transaction investigation, and PR review using Spring AI & GOAP
 - 🔐 Previously built fiat/crypto approval workflows, transaction reporting and search capabilities for a leading stablecoin fintech
 - 🏦 Previously built food-donation platform across European markets
@@ -77,6 +78,7 @@ I'm a **Lead Backend Engineer** architecting and delivering mission-critical pay
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Arc](https://img.shields.io/badge/Arc_L1-2775CA?style=flat-square&logo=circle&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![USDC](https://img.shields.io/badge/USDC-2775CA?style=flat-square&logo=circle&logoColor=white)
