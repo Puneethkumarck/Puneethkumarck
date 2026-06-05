@@ -169,6 +169,24 @@ I'm a **Lead Backend Engineer** architecting and delivering mission-critical pay
 
 ---
 
+### 💸 [arcpay](https://github.com/Puneethkumarck/arcpay)
+> Open-source payment protocol on Circle's Arc L1 blockchain — giving AI agents autonomous but policy-controlled access to USDC. Every payment runs a policy → compliance → on-chain settlement gauntlet before money moves.
+
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![USDC](https://img.shields.io/badge/USDC-2775CA?style=flat-square&logo=circle&logoColor=white)
+
+- Each agent gets its own custodial Circle USDC wallet + on-chain identity (AgentRegistry on Arc testnet)
+- Spending policies enforced as money (reserve/commit), not advice — per-tx/daily limits, recipient allowlists, velocity rules
+- Five independently-deployable Spring Boot services coordinating via Kafka (transactional outbox) and Temporal sagas
+- Failure at any gate releases the reservation — money never moves unless every check passes
+
+---
+
 ### 🔺 [prism](https://github.com/Puneethkumarck/prism)
 > High-performance real-time Solana transaction indexer — streams the mainnet firehose via Yellowstone gRPC or WebSocket `blockSubscribe` and persists it to PostgreSQL. **No Spring Boot. No JPA.**
 
